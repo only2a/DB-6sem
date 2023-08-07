@@ -1,0 +1,132 @@
+﻿<Window x:Class="LAB_02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LAB_02"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="691" Width="908">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Пользователи" Foreground="Black" FontSize="18">
+                <Grid RenderTransformOrigin="0.492,0.5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition ></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <Label x:Name="labelEmail" Content="Почта" Margin="3,10,200,173" Width="100"/>
+                            <TextBox x:Name="textBoxEmail" HorizontalAlignment="Left" Height="31" Margin="97,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178" />
+
+                            <Label x:Name="labelFirstName" Content="Имя" Margin="3,55,221,128" />
+                            <TextBox x:Name="textBoxFirstName" HorizontalAlignment="Left" Height="31" Margin="97,55,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178" />
+
+                            <Label x:Name="labelLastName" Content="Фамилия" Margin="3,103,206,77" />
+                            <TextBox x:Name="textBoxLastName" HorizontalAlignment="Left" Height="31" Margin="97,103,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178" />
+                        </Grid>
+
+                        <Grid Grid.Column="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid>
+                                <Button x:Name="addClient" Content="Добавить" Margin="10,10,10,273" Click="addClient_Click"/>
+                                <Button x:Name="changeClient" Content="Изменить" Margin="10,47,10,236" Click="changeClient_Click"/>
+                                <Button x:Name="delClients" Content="Удалить" Margin="10,84,10,200" Click="delClients_Click"/>
+                            </Grid>
+
+                            <Grid Grid.Column="1">
+                                <Label x:Name="postId" Content="postId" Margin="3,10,80,223" FontSize="15" FontWeight="Bold"/>
+                                <TextBox x:Name="postIdTb" HorizontalAlignment="Left" Height="31" Margin="76,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="65" />
+
+                                <Label x:Name="userId1" Content="userId1" Margin="3,60,80,173" FontSize="15" FontWeight="Bold"/>
+                                <TextBox x:Name="userId1Tb" HorizontalAlignment="Left" Height="31" Margin="76,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="65" />
+
+                                <Label x:Name="userId2" Content="userId2" Margin="3,110,80,123" FontSize="15" FontWeight="Bold"/>
+                                <TextBox x:Name="userId2Tb" HorizontalAlignment="Left" Height="31" Margin="76,110,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="65" />
+
+                            </Grid>
+
+                        </Grid>
+
+                        <Grid Grid.Column="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="0">
+                                <Button x:Name="postByUser" Content="Посты юзера" Margin="10,10,10,273" Click="postsByUser_Click"/>
+                                <Button x:Name="friends" Content="Друзья" Margin="10,47,10,236" Click="friends_CLick"/>
+                                <Button x:Name="comments" Content="Комментарии" Margin="10,84,10,199" Click="commentsByUser_Click"/>
+                                <Button x:Name="messages" Content="Сообщения" Margin="10,126,10,156" Click="messagesByUser_Click"/>
+                            </Grid>
+                            <Grid Grid.Column="1">
+                                <Button x:Name="posts" Content="Посты" Margin="10,10,10,274" Click="posts_Click"/>
+                                <Button  x:Name="allClients" Content="Все юзерс" Margin="10,46,10,241" Click="allClients_Click" ></Button>
+                            </Grid>
+
+                        </Grid>
+                    </Grid>
+                    <Grid Margin="0,192,0,0" Grid.RowSpan="2">
+                        <DataGrid x:Name="myGrid" HorizontalAlignment="Center" Height="336"  VerticalAlignment="Center" Width="908" CanUserResizeColumns="False" 
+                              CanUserResizeRows="False" HorizontalScrollBarVisibility="Auto" 
+                              CanUserAddRows="False" CanUserReorderColumns="False" CanUserDeleteRows="False" 
+                              IsReadOnly="True"/>
+                    </Grid>
+                </Grid>
+
+            </TabItem>
+            <TabItem Header="Пространственные">
+                <Grid RenderTransformOrigin="0.492,0.5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="223*" ></RowDefinition>
+                        <RowDefinition Height="416*" ></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid>
+                                <Button  x:Name="spatial" Content="Расстояние" Margin="10,10,100,176" Click="distance_Click" ></Button>
+                                <Button  x:Name="spatial_Copy" Content="Пересечение" Margin="10,52,100,134" Click="intersaction_Click" />
+                                <Button  x:Name="spatial_Copy1" Content="Отрицание" Margin="10,94,100,92" Click="difference_Click" />
+                                <Button  x:Name="spatial_Copy2" Content="Всё" Margin="10,136,100,50" Click="ul_Click" />
+                            </Grid>
+                            <Grid Grid.Column="1">
+                                <TextBlock Text="user1" Margin="0,16,192,178"></TextBlock>
+                                <TextBox x:Name="user1" Margin="56,10,56,176"></TextBox>
+                                <TextBlock Text="user2" Margin="0,58,192,148"></TextBlock>
+                                <TextBox x:Name="user2" Margin="56,52,56,134"/>
+                            </Grid>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <TextBox x:Name="spatialTextBox">
+                                
+                            </TextBox>
+                        </Grid>
+
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <DataGrid x:Name="spatialGrid" HorizontalAlignment="Center" Height="336"  VerticalAlignment="Center" Width="908" CanUserResizeColumns="False" 
+                              CanUserResizeRows="False" HorizontalScrollBarVisibility="Auto" 
+                              CanUserAddRows="False" CanUserReorderColumns="False" CanUserDeleteRows="False" 
+                              IsReadOnly="True"/>
+                    </Grid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

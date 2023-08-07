@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<log>
+<record>
+  <date>2023-04-13T23:31:42</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Catalog SocialNetwork, Schema dbo coalesced to single schema SocialNetwork</message>
+  <key>Convert.COALESCED</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>SocialNetwork</param>
+  <param>dbo</param>
+  <param>SocialNetwork</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@7966fef9</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:31:44</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Table 'Comment' Changed to 'Comment_' (Invalid characters, reserved word or clash)</message>
+  <param>Comment_, MD_TABLES, 88151Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:31:51</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:PopularPosts</message>
+  <param>PopularPosts, MD_VIEWS, 22101Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:31:53</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted PopularPosts in 1 seconds</message>
+  <param>PopularPosts, MD_VIEWS, 92251Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:31:55</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:UserActivity</message>
+  <param>UserActivity, MD_VIEWS, 22201Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:31:56</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted UserActivity in 1 seconds</message>
+  <param>UserActivity, MD_VIEWS, 92351Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:31:57</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:PostDetails</message>
+  <param>PostDetails, MD_VIEWS, 22301Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:31:58</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted PostDetails in 1 seconds</message>
+  <param>PostDetails, MD_VIEWS, 92451Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:31:59</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:CountUserComments</message>
+  <param>CountUserComments, MD_STORED_PROGRAMS, 92751Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:00</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted CountUserComments in 0 seconds</message>
+  <param>CountUserComments, MD_STORED_PROGRAMS, 92751Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:01</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:fn_diagramobjects</message>
+  <param>fn_diagramobjects, MD_STORED_PROGRAMS, 93301Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:01</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Multiple Limitations for Stored Procedure fn_diagramobjects</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@7dcead9</param>
+
+<record>
+  <date>2023-04-13T23:32:01</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'OBJECT_ID' encountered on Stored Procedure SocialNetwork.dbo.fn_diagramobjects line 18 column 32</message>
+  <param>fn_diagramobjects, MD_STORED_PROGRAMS, 93301</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:01</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'OBJECT_ID' encountered on Stored Procedure SocialNetwork.dbo.fn_diagramobjects line 19 column 22</message>
+  <param>fn_diagramobjects, MD_STORED_PROGRAMS, 93301</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:01</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'OBJECT_ID' encountered on Stored Procedure SocialNetwork.dbo.fn_diagramobjects line 20 column 23</message>
+  <param>fn_diagramobjects, MD_STORED_PROGRAMS, 93301</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:01</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'OBJECT_ID' encountered on Stored Procedure SocialNetwork.dbo.fn_diagramobjects line 21 column 32</message>
+  <param>fn_diagramobjects, MD_STORED_PROGRAMS, 93301</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:01</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'OBJECT_ID' encountered on Stored Procedure SocialNetwork.dbo.fn_diagramobjects line 22 column 24</message>
+  <param>fn_diagramobjects, MD_STORED_PROGRAMS, 93301</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:01</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'OBJECT_ID' encountered on Stored Procedure SocialNetwork.dbo.fn_diagramobjects line 23 column 24</message>
+  <param>fn_diagramobjects, MD_STORED_PROGRAMS, 93301</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:01</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'OBJECT_ID' encountered on Stored Procedure SocialNetwork.dbo.fn_diagramobjects line 24 column 23</message>
+  <param>fn_diagramobjects, MD_STORED_PROGRAMS, 93301</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:01</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'OBJECT_ID' encountered on Stored Procedure SocialNetwork.dbo.fn_diagramobjects line 25 column 22</message>
+  <param>fn_diagramobjects, MD_STORED_PROGRAMS, 93301</param>
+
+</record>
+</record>
+<record>
+  <date>2023-04-13T23:32:01</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted fn_diagramobjects in 0 seconds</message>
+  <param>fn_diagramobjects, MD_STORED_PROGRAMS, 93301Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:02</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:GetUserFriendCount</message>
+  <param>GetUserFriendCount, MD_STORED_PROGRAMS, 93851Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:03</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted GetUserFriendCount in 0 seconds</message>
+  <param>GetUserFriendCount, MD_STORED_PROGRAMS, 93851Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:03</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:GetUserPostCount</message>
+  <param>GetUserPostCount, MD_STORED_PROGRAMS, 94101Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:04</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted GetUserPostCount in 0 seconds</message>
+  <param>GetUserPostCount, MD_STORED_PROGRAMS, 94101Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:05</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:AddPost</message>
+  <param>AddPost, MD_STORED_PROGRAMS, 92551Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:06</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted AddPost in 1 seconds</message>
+  <param>AddPost, MD_STORED_PROGRAMS, 92551Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:06</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:AddSubordinateComment</message>
+  <param>AddSubordinateComment, MD_STORED_PROGRAMS, 92651Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:07</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted AddSubordinateComment in 0 seconds</message>
+  <param>AddSubordinateComment, MD_STORED_PROGRAMS, 92651Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:07</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:CreateComment</message>
+  <param>CreateComment, MD_STORED_PROGRAMS, 92901Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:08</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted CreateComment in 0 seconds</message>
+  <param>CreateComment, MD_STORED_PROGRAMS, 92901Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:08</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:CreateFriendship</message>
+  <param>CreateFriendship, MD_STORED_PROGRAMS, 93001Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:09</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted CreateFriendship in 0 seconds</message>
+  <param>CreateFriendship, MD_STORED_PROGRAMS, 93001Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:10</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:CreateLike</message>
+  <param>CreateLike, MD_STORED_PROGRAMS, 93101Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:10</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted CreateLike in 0 seconds</message>
+  <param>CreateLike, MD_STORED_PROGRAMS, 93101Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:11</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:DeletePostById</message>
+  <param>DeletePostById, MD_STORED_PROGRAMS, 93201Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:12</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted DeletePostById in 0 seconds</message>
+  <param>DeletePostById, MD_STORED_PROGRAMS, 93201Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:12</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:GetPostById</message>
+  <param>GetPostById, MD_STORED_PROGRAMS, 93451Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:13</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted GetPostById in 0 seconds</message>
+  <param>GetPostById, MD_STORED_PROGRAMS, 93451Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:13</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:GetPostByUserId</message>
+  <param>GetPostByUserId, MD_STORED_PROGRAMS, 93551Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:15</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted GetPostByUserId in 1 seconds</message>
+  <param>GetPostByUserId, MD_STORED_PROGRAMS, 93551Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:15</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:GetPostsWithUserInfo</message>
+  <param>GetPostsWithUserInfo, MD_STORED_PROGRAMS, 93651Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:16</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted GetPostsWithUserInfo in 1 seconds</message>
+  <param>GetPostsWithUserInfo, MD_STORED_PROGRAMS, 93651Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:16</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:GetSubordinateComments</message>
+  <param>GetSubordinateComments, MD_STORED_PROGRAMS, 93751Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:19</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted GetSubordinateComments in 2 seconds</message>
+  <param>GetSubordinateComments, MD_STORED_PROGRAMS, 93751Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:19</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:GetUserInfo</message>
+  <param>GetUserInfo, MD_STORED_PROGRAMS, 94001Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:20</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted GetUserInfo in 0 seconds</message>
+  <param>GetUserInfo, MD_STORED_PROGRAMS, 94001Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:20</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:InsertMessage</message>
+  <param>InsertMessage, MD_STORED_PROGRAMS, 94251Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:21</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted InsertMessage in 0 seconds</message>
+  <param>InsertMessage, MD_STORED_PROGRAMS, 94251Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:21</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:MoveSubordinateComments</message>
+  <param>MoveSubordinateComments, MD_STORED_PROGRAMS, 94351Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:23</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted MoveSubordinateComments in 1 seconds</message>
+  <param>MoveSubordinateComments, MD_STORED_PROGRAMS, 94351Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:23</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:ReadCommentsByPost</message>
+  <param>ReadCommentsByPost, MD_STORED_PROGRAMS, 94451Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:25</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted ReadCommentsByPost in 1 seconds</message>
+  <param>ReadCommentsByPost, MD_STORED_PROGRAMS, 94451Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:25</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:ReadFriendsByUser</message>
+  <param>ReadFriendsByUser, MD_STORED_PROGRAMS, 94551Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:27</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted ReadFriendsByUser in 1 seconds</message>
+  <param>ReadFriendsByUser, MD_STORED_PROGRAMS, 94551Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:27</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:ReadLikesByPost</message>
+  <param>ReadLikesByPost, MD_STORED_PROGRAMS, 94651Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:28</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted ReadLikesByPost in 1 seconds</message>
+  <param>ReadLikesByPost, MD_STORED_PROGRAMS, 94651Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:29</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:ReadMessagesByUser</message>
+  <param>ReadMessagesByUser, MD_STORED_PROGRAMS, 94751Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:29</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.metadata.persistence.PersistenceUtility</class>
+  <message>No Indexes for table tableId:13201 columnName:sender_id</message>
+  <key>Capture.NO_INDEXES</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>tableId:13201 columnName:sender_id</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@3255303c</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:29</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.metadata.persistence.PersistenceUtility</class>
+  <message>No Indexes for table tableId:13201 columnName:receiver_id</message>
+  <key>Capture.NO_INDEXES</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>tableId:13201 columnName:receiver_id</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@663a6897</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:29</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.metadata.persistence.PersistenceUtility</class>
+  <message>No Indexes for table tableId:13201 columnName:sender_id</message>
+  <key>Capture.NO_INDEXES</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>tableId:13201 columnName:sender_id</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@4825322</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:29</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.metadata.persistence.PersistenceUtility</class>
+  <message>No Indexes for table tableId:13201 columnName:receiver_id</message>
+  <key>Capture.NO_INDEXES</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>tableId:13201 columnName:receiver_id</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@34b1478</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:29</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.metadata.persistence.PersistenceUtility</class>
+  <message>No Indexes for table tableId:13201 columnName:sender_id</message>
+  <key>Capture.NO_INDEXES</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>tableId:13201 columnName:sender_id</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@1644f7ec</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:30</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.metadata.persistence.PersistenceUtility</class>
+  <message>No Indexes for table tableId:13201 columnName:receiver_id</message>
+  <key>Capture.NO_INDEXES</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>tableId:13201 columnName:receiver_id</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@7c27813b</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:30</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.metadata.persistence.PersistenceUtility</class>
+  <message>No Indexes for table tableId:13201 columnName:sender_id</message>
+  <key>Capture.NO_INDEXES</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>tableId:13201 columnName:sender_id</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@112e68bc</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:30</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.metadata.persistence.PersistenceUtility</class>
+  <message>No Indexes for table tableId:13201 columnName:receiver_id</message>
+  <key>Capture.NO_INDEXES</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>tableId:13201 columnName:receiver_id</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@3c334924</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:30</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.metadata.persistence.PersistenceUtility</class>
+  <message>No Indexes for table tableId:13201 columnName:sender_id</message>
+  <key>Capture.NO_INDEXES</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>tableId:13201 columnName:sender_id</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@24bfbcdf</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:30</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.metadata.persistence.PersistenceUtility</class>
+  <message>No Indexes for table tableId:13201 columnName:receiver_id</message>
+  <key>Capture.NO_INDEXES</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>tableId:13201 columnName:receiver_id</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@29432712</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:30</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.metadata.persistence.PersistenceUtility</class>
+  <message>No Indexes for table tableId:13201 columnName:sender_id</message>
+  <key>Capture.NO_INDEXES</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>tableId:13201 columnName:sender_id</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@61dd8696</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:30</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.metadata.persistence.PersistenceUtility</class>
+  <message>No Indexes for table tableId:13201 columnName:receiver_id</message>
+  <key>Capture.NO_INDEXES</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>tableId:13201 columnName:receiver_id</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@785fb9cb</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:30</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted ReadMessagesByUser in 1 seconds</message>
+  <param>ReadMessagesByUser, MD_STORED_PROGRAMS, 94751Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:31</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:spAddNewUser</message>
+  <param>spAddNewUser, MD_STORED_PROGRAMS, 94851Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:31</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted spAddNewUser in 0 seconds</message>
+  <param>spAddNewUser, MD_STORED_PROGRAMS, 94851Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:32</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:sp_alterdiagram</message>
+  <param>sp_alterdiagram, MD_STORED_PROGRAMS, 94951Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:33</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Multiple Limitations for Stored Procedure sp_alterdiagram</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@381bc201</param>
+
+<record>
+  <date>2023-04-13T23:32:33</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'EXECUTE_AS' encountered on Stored Procedure SocialNetwork.dbo.sp_alterdiagram line 27 column 3</message>
+  <param>sp_alterdiagram, MD_STORED_PROGRAMS, 94951</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:33</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'IS_MEMBER' encountered on Stored Procedure SocialNetwork.dbo.sp_alterdiagram line 29 column 19</message>
+  <param>sp_alterdiagram, MD_STORED_PROGRAMS, 94951</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:33</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'REVERT' encountered on Stored Procedure SocialNetwork.dbo.sp_alterdiagram line 32 column 3</message>
+  <param>sp_alterdiagram, MD_STORED_PROGRAMS, 94951</param>
+
+</record>
+</record>
+<record>
+  <date>2023-04-13T23:32:33</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted sp_alterdiagram in 1 seconds</message>
+  <param>sp_alterdiagram, MD_STORED_PROGRAMS, 94951Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:33</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:sp_creatediagram</message>
+  <param>sp_creatediagram, MD_STORED_PROGRAMS, 95051Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:34</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Multiple Limitations for Stored Procedure sp_creatediagram</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@4811c05</param>
+
+<record>
+  <date>2023-04-13T23:32:34</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'EXECUTE_AS' encountered on Stored Procedure SocialNetwork.dbo.sp_creatediagram line 23 column 3</message>
+  <param>sp_creatediagram, MD_STORED_PROGRAMS, 95051</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:34</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'IS_MEMBER' encountered on Stored Procedure SocialNetwork.dbo.sp_creatediagram line 25 column 19</message>
+  <param>sp_creatediagram, MD_STORED_PROGRAMS, 95051</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:34</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'REVERT' encountered on Stored Procedure SocialNetwork.dbo.sp_creatediagram line 26 column 3</message>
+  <param>sp_creatediagram, MD_STORED_PROGRAMS, 95051</param>
+
+</record>
+</record>
+<record>
+  <date>2023-04-13T23:32:34</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted sp_creatediagram in 0 seconds</message>
+  <param>sp_creatediagram, MD_STORED_PROGRAMS, 95051Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:35</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:sp_dropdiagram</message>
+  <param>sp_dropdiagram, MD_STORED_PROGRAMS, 95151Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:35</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Multiple Limitations for Stored Procedure sp_dropdiagram</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@326d8214</param>
+
+<record>
+  <date>2023-04-13T23:32:35</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'EXECUTE_AS' encountered on Stored Procedure SocialNetwork.dbo.sp_dropdiagram line 22 column 3</message>
+  <param>sp_dropdiagram, MD_STORED_PROGRAMS, 95151</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:35</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'IS_MEMBER' encountered on Stored Procedure SocialNetwork.dbo.sp_dropdiagram line 24 column 19</message>
+  <param>sp_dropdiagram, MD_STORED_PROGRAMS, 95151</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:35</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'REVERT' encountered on Stored Procedure SocialNetwork.dbo.sp_dropdiagram line 27 column 3</message>
+  <param>sp_dropdiagram, MD_STORED_PROGRAMS, 95151</param>
+
+</record>
+</record>
+<record>
+  <date>2023-04-13T23:32:35</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted sp_dropdiagram in 0 seconds</message>
+  <param>sp_dropdiagram, MD_STORED_PROGRAMS, 95151Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:36</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:sp_helpdiagramdefinition</message>
+  <param>sp_helpdiagramdefinition, MD_STORED_PROGRAMS, 95251Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:37</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Multiple Limitations for Stored Procedure sp_helpdiagramdefinition</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@61009c9c</param>
+
+<record>
+  <date>2023-04-13T23:32:37</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'EXECUTE_AS' encountered on Stored Procedure SocialNetwork.dbo.sp_helpdiagramdefinition line 22 column 3</message>
+  <param>sp_helpdiagramdefinition, MD_STORED_PROGRAMS, 95251</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:37</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'IS_MEMBER' encountered on Stored Procedure SocialNetwork.dbo.sp_helpdiagramdefinition line 24 column 19</message>
+  <param>sp_helpdiagramdefinition, MD_STORED_PROGRAMS, 95251</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:37</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'REVERT' encountered on Stored Procedure SocialNetwork.dbo.sp_helpdiagramdefinition line 27 column 3</message>
+  <param>sp_helpdiagramdefinition, MD_STORED_PROGRAMS, 95251</param>
+
+</record>
+</record>
+<record>
+  <date>2023-04-13T23:32:37</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted sp_helpdiagramdefinition in 0 seconds</message>
+  <param>sp_helpdiagramdefinition, MD_STORED_PROGRAMS, 95251Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:37</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:sp_helpdiagrams</message>
+  <param>sp_helpdiagrams, MD_STORED_PROGRAMS, 95351Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:38</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Multiple Limitations for Stored Procedure sp_helpdiagrams</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@4f2cab10</param>
+
+<record>
+  <date>2023-04-13T23:32:38</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'EXECUTE_AS' encountered on Stored Procedure SocialNetwork.dbo.sp_helpdiagrams line 11 column 3</message>
+  <param>sp_helpdiagrams, MD_STORED_PROGRAMS, 95351</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:38</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'IS_MEMBER' encountered on Stored Procedure SocialNetwork.dbo.sp_helpdiagrams line 13 column 32</message>
+  <param>sp_helpdiagrams, MD_STORED_PROGRAMS, 95351</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:38</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'REVERT' encountered on Stored Procedure SocialNetwork.dbo.sp_helpdiagrams line 14 column 3</message>
+  <param>sp_helpdiagrams, MD_STORED_PROGRAMS, 95351</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:38</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'DB_NAME' encountered on Stored Procedure SocialNetwork.dbo.sp_helpdiagrams line 16 column 17</message>
+  <param>sp_helpdiagrams, MD_STORED_PROGRAMS, 95351</param>
+
+</record>
+</record>
+<record>
+  <date>2023-04-13T23:32:38</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted sp_helpdiagrams in 0 seconds</message>
+  <param>sp_helpdiagrams, MD_STORED_PROGRAMS, 95351Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:38</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:sp_renamediagram</message>
+  <param>sp_renamediagram, MD_STORED_PROGRAMS, 95451Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:39</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Multiple Limitations for Stored Procedure sp_renamediagram</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@59ef9b72</param>
+
+<record>
+  <date>2023-04-13T23:32:39</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'EXECUTE_AS' encountered on Stored Procedure SocialNetwork.dbo.sp_renamediagram line 25 column 3</message>
+  <param>sp_renamediagram, MD_STORED_PROGRAMS, 95451</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:39</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'IS_MEMBER' encountered on Stored Procedure SocialNetwork.dbo.sp_renamediagram line 27 column 19</message>
+  <param>sp_renamediagram, MD_STORED_PROGRAMS, 95451</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:39</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'REVERT' encountered on Stored Procedure SocialNetwork.dbo.sp_renamediagram line 30 column 3</message>
+  <param>sp_renamediagram, MD_STORED_PROGRAMS, 95451</param>
+
+</record>
+</record>
+<record>
+  <date>2023-04-13T23:32:39</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted sp_renamediagram in 1 seconds</message>
+  <param>sp_renamediagram, MD_STORED_PROGRAMS, 95451Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:40</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Attempting Convert:sp_upgraddiagrams</message>
+  <param>sp_upgraddiagrams, MD_STORED_PROGRAMS, 95551Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:42</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Multiple Limitations for Stored Procedure sp_upgraddiagrams</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@539d6a2c</param>
+
+<record>
+  <date>2023-04-13T23:32:42</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'OBJECT_ID' encountered on Stored Procedure SocialNetwork.dbo.sp_upgraddiagrams line 4 column 6</message>
+  <param>sp_upgraddiagrams, MD_STORED_PROGRAMS, 95551</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:42</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Translation limitation 'OBJECT_ID' encountered on Stored Procedure SocialNetwork.dbo.sp_upgraddiagrams line 36 column 6</message>
+  <param>sp_upgraddiagrams, MD_STORED_PROGRAMS, 95551</param>
+
+</record>
+</record>
+<record>
+  <date>2023-04-13T23:32:42</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Successfully Converted sp_upgraddiagrams in 1 seconds</message>
+  <param>sp_upgraddiagrams, MD_STORED_PROGRAMS, 95551Convert</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:43</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+  <message>Convert completed in 52 seconds</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@7966fef9</param>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:55</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.migration.workbench.core.logging.MigrationLogUtil</class>
+  <message>Generation phase
+Affected rows = 0, expecting only 1</message>
+  <param>oracle.dbtools.metadata.persistence.PersistableObject.doUpdate(PersistableObject.java:361)</param>
+  <param>oracle.dbtools.metadata.persistence.PersistableObject.save(PersistableObject.java:186)</param>
+  <param>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask.doGenerate(FullMigrateTask.java:1303)</param>
+  <param>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask.doMaskBasedActions(FullMigrateTask.java:437)</param>
+  <param>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask.doWork(FullMigrateTask.java:321)</param>
+  <param>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask.doWork(FullMigrateTask.java:154)</param>
+  <param>oracle.dbtools.raptor.backgroundTask.RaptorTask.call(RaptorTask.java:199)</param>
+  <param>java.util.concurrent.FutureTask.run(FutureTask.java:266)</param>
+  <param>oracle.dbtools.raptor.backgroundTask.RaptorTaskManager$RaptorFutureTask.run(RaptorTaskManager.java:702)</param>
+  <param>java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)</param>
+  <param>java.util.concurrent.FutureTask.run(FutureTask.java:266)</param>
+  <param>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)</param>
+  <param>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)</param>
+  <param>java.lang.Thread.run(Thread.java:748)</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@5fedd9dd</param>
+  <exception>
+    <message>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask$FullMigrateTaskException: Generation phase
+Affected rows = 0, expecting only 1</message>
+    <frame>
+      <class>oracle.dbtools.metadata.persistence.PersistableObject</class>
+      <line>361</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.metadata.persistence.PersistableObject</class>
+      <line>186</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+      <line>1303</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+      <line>437</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+      <line>321</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+      <line>154</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.raptor.backgroundTask.RaptorTask</class>
+      <line>199</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.FutureTask</class>
+      <line>266</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.raptor.backgroundTask.RaptorTaskManager$RaptorFutureTask</class>
+      <line>702</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.Executors$RunnableAdapter</class>
+      <line>511</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.FutureTask</class>
+      <line>266</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.ThreadPoolExecutor</class>
+      <line>1149</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.ThreadPoolExecutor$Worker</class>
+      <line>624</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <line>748</line>
+    </frame>
+  </exception>
+
+</record>
+<record>
+  <date>2023-04-13T23:32:55</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+  <message>Generated script run has failures: FAILED : Database Migration : FAILED</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@b62190a</param>
+
+</record>

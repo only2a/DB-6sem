@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<log>
+<record>
+  <date>2023-05-19T06:29:28</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.convert.ConverterWorker</class>
+  <message>Catalog SocialNetwork2, Schema dbo coalesced to single schema SocialNetwork2</message>
+  <key>Convert.COALESCED</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>SocialNetwork2</param>
+  <param>dbo</param>
+  <param>SocialNetwork2</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@1ebc733d</param>
+
+</record>
+<record>
+  <date>2023-05-19T06:29:29</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.core.util.MultiLevelLogManager</class>
+  <message>Table 'Comment' Changed to 'Comment_' (Invalid characters, reserved word or clash)</message>
+  <param>Comment_, MD_TABLES, 310751Convert</param>
+
+</record>
+<record>
+  <date>2023-05-19T06:29:32</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>INFO</level>
+  <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+  <message>Convert completed in 0 seconds</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@1ebc733d</param>
+
+</record>
+<record>
+  <date>2023-05-19T06:29:36</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.migration.workbench.core.logging.MigrationLogUtil</class>
+  <message>Generation phase
+ORA-00942: таблица или представление пользователя не существует
+</message>
+  <param>oracle.dbtools.metadata.persistence.PersistableObject.doUpdate(PersistableObject.java:364)</param>
+  <param>oracle.dbtools.metadata.persistence.PersistableObject.save(PersistableObject.java:186)</param>
+  <param>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask.doGenerate(FullMigrateTask.java:1303)</param>
+  <param>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask.doMaskBasedActions(FullMigrateTask.java:437)</param>
+  <param>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask.doWork(FullMigrateTask.java:321)</param>
+  <param>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask.doWork(FullMigrateTask.java:154)</param>
+  <param>oracle.dbtools.raptor.backgroundTask.RaptorTask.call(RaptorTask.java:199)</param>
+  <param>java.util.concurrent.FutureTask.run(FutureTask.java:266)</param>
+  <param>oracle.dbtools.raptor.backgroundTask.RaptorTaskManager$RaptorFutureTask.run(RaptorTaskManager.java:702)</param>
+  <param>java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)</param>
+  <param>java.util.concurrent.FutureTask.run(FutureTask.java:266)</param>
+  <param>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)</param>
+  <param>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)</param>
+  <param>java.lang.Thread.run(Thread.java:748)</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@691c994b</param>
+  <exception>
+    <message>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask$FullMigrateTaskException: Generation phase
+ORA-00942: таблица или представление пользователя не существует
+</message>
+    <frame>
+      <class>oracle.dbtools.metadata.persistence.PersistableObject</class>
+      <line>364</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.metadata.persistence.PersistableObject</class>
+      <line>186</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+      <line>1303</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+      <line>437</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+      <line>321</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+      <line>154</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.raptor.backgroundTask.RaptorTask</class>
+      <line>199</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.FutureTask</class>
+      <line>266</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.raptor.backgroundTask.RaptorTaskManager$RaptorFutureTask</class>
+      <line>702</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.Executors$RunnableAdapter</class>
+      <line>511</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.FutureTask</class>
+      <line>266</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.ThreadPoolExecutor</class>
+      <line>1149</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.ThreadPoolExecutor$Worker</class>
+      <line>624</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <line>748</line>
+    </frame>
+  </exception>
+
+</record>
+<record>
+  <date>2023-05-19T06:29:36</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+  <message>Generated script run has failures: FAILED : Database Migration : FAILED</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@47266b07</param>
+
+</record>
+<record>
+  <date>2023-05-19T06:31:19</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.migration.workbench.core.logging.MigrationLogUtil</class>
+  <message>ORA-12003: материализованное представление или карта зоны "SOCIALNETWORK2"."MD_REGEX_CATALOG_MVIEW" не существует
+</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@1c7d5046</param>
+  <exception>
+    <message>java.sql.SQLException: ORA-12003: материализованное представление или карта зоны "SOCIALNETWORK2"."MD_REGEX_CATALOG_MVIEW" не существует
+</message>
+    <frame>
+      <class>oracle.jdbc.driver.T4CTTIoer11</class>
+      <line>494</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CTTIoer11</class>
+      <line>446</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4C8Oall</class>
+      <line>1052</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CTTIfun</class>
+      <line>537</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CTTIfun</class>
+      <line>255</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4C8Oall</class>
+      <line>610</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CStatement</class>
+      <line>213</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CStatement</class>
+      <line>37</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CStatement</class>
+      <line>887</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatement</class>
+      <line>1136</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatement</class>
+      <line>1678</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatement</class>
+      <line>1643</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatement</class>
+      <line>1630</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatementWrapper</class>
+      <line>282</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.proxy.oracle$1dbtools$1raptor$1proxy$1driver$1oracle$1RaptorProxyOJDBCStatement$2oracle$1jdbc$1internal$1OracleStatement$$$Proxy</class>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.metadata.createRepository.RepositoryRegistry</class>
+      <line>312</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.repository.DeleteRepoProgressRunnable</class>
+      <line>69</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.AbstractMigrationProgressRunnable</class>
+      <line>169</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.MigrationProgressBar</class>
+      <line>593</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <line>748</line>
+    </frame>
+  </exception>
+
+</record>
+<record>
+  <date>2023-05-19T06:31:19</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.migration.workbench.core.logging.MigrationLogUtil</class>
+  <message>ORA-12003: материализованное представление или карта зоны "SOCIALNETWORK2"."MD_REGEX_MVIEW" не существует
+</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@71bb8541</param>
+  <exception>
+    <message>java.sql.SQLException: ORA-12003: материализованное представление или карта зоны "SOCIALNETWORK2"."MD_REGEX_MVIEW" не существует
+</message>
+    <frame>
+      <class>oracle.jdbc.driver.T4CTTIoer11</class>
+      <line>494</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CTTIoer11</class>
+      <line>446</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4C8Oall</class>
+      <line>1052</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CTTIfun</class>
+      <line>537</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CTTIfun</class>
+      <line>255</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4C8Oall</class>
+      <line>610</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CStatement</class>
+      <line>213</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CStatement</class>
+      <line>37</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CStatement</class>
+      <line>887</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatement</class>
+      <line>1136</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatement</class>
+      <line>1678</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatement</class>
+      <line>1643</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatement</class>
+      <line>1630</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatementWrapper</class>
+      <line>282</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.proxy.oracle$1dbtools$1raptor$1proxy$1driver$1oracle$1RaptorProxyOJDBCStatement$2oracle$1jdbc$1internal$1OracleStatement$$$Proxy</class>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.metadata.createRepository.RepositoryRegistry</class>
+      <line>312</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.repository.DeleteRepoProgressRunnable</class>
+      <line>69</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.AbstractMigrationProgressRunnable</class>
+      <line>169</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.MigrationProgressBar</class>
+      <line>593</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <line>748</line>
+    </frame>
+  </exception>
+
+</record>
+<record>
+  <date>2023-05-19T06:31:19</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.migration.workbench.core.logging.MigrationLogUtil</class>
+  <message>ORA-12003: материализованное представление или карта зоны "SOCIALNETWORK2"."MD_REGEX_SCHEMA_MVIEW" не существует
+</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@1cc38e21</param>
+  <exception>
+    <message>java.sql.SQLException: ORA-12003: материализованное представление или карта зоны "SOCIALNETWORK2"."MD_REGEX_SCHEMA_MVIEW" не существует
+</message>
+    <frame>
+      <class>oracle.jdbc.driver.T4CTTIoer11</class>
+      <line>494</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CTTIoer11</class>
+      <line>446</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4C8Oall</class>
+      <line>1052</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CTTIfun</class>
+      <line>537</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CTTIfun</class>
+      <line>255</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4C8Oall</class>
+      <line>610</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CStatement</class>
+      <line>213</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CStatement</class>
+      <line>37</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.T4CStatement</class>
+      <line>887</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatement</class>
+      <line>1136</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatement</class>
+      <line>1678</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatement</class>
+      <line>1643</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatement</class>
+      <line>1630</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.driver.OracleStatementWrapper</class>
+      <line>282</line>
+    </frame>
+    <frame>
+      <class>oracle.jdbc.proxy.oracle$1dbtools$1raptor$1proxy$1driver$1oracle$1RaptorProxyOJDBCStatement$2oracle$1jdbc$1internal$1OracleStatement$$$Proxy</class>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.metadata.createRepository.RepositoryRegistry</class>
+      <line>312</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.repository.DeleteRepoProgressRunnable</class>
+      <line>69</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.AbstractMigrationProgressRunnable</class>
+      <line>169</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.MigrationProgressBar</class>
+      <line>593</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <line>748</line>
+    </frame>
+  </exception>
+
+</record>

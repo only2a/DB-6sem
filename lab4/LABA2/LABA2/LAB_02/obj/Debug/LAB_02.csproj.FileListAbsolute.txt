@@ -1,0 +1,167 @@
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\LAB_02.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\App.g.cs
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\LAB_02_MarkupCompile.cache
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\LAB_02_MarkupCompile.lref
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\bin\Debug\LAB_02.exe.config
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\bin\Debug\LAB_02.exe
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\bin\Debug\LAB_02.pdb
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\LAB_02.g.resources
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\LAB_02.Properties.Resources.resources
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\LAB_02.csproj.GenerateResource.cache
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\LAB_02.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\LAB_02.exe
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\LAB_02.pdb
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\LAB_02_Content.g.cs
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Study_6sem\ПББВП\LAB_02\LAB_02\obj\Debug\LAB_02.csproj.CopyComplete
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\App.g.cs
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\LAB_02_Content.g.cs
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\LAB_02_MarkupCompile.cache
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\LAB_02_MarkupCompile.lref
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\LAB_02.exe
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\LAB_02.pdb
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\LAB_02.exe.config
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\LAB_02.exe
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\LAB_02.pdb
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\Control_Assembly.dll
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\Control_Assembly.pdb
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\LAB_02.g.resources
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\LAB_02.Properties.Resources.resources
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.GenerateResource.cache
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.CopyComplete
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\Documents\Study_6sem\ПББВП\DB_6sem\лабы\02. Data access\LAB_02\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\MainWindow.g.cs
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\App.g.cs
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\LAB_02_Content.g.cs
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\LAB_02_MarkupCompile.cache
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\LAB_02_MarkupCompile.lref
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\LAB_02.exe
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\LAB_02.pdb
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\LAB_02.exe.config
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\LAB_02.exe
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\LAB_02.pdb
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\EntityFramework.dll
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\Control_Assembly.pdb
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\EntityFramework.xml
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dima\Desktop\02. Data access\LAB_02\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\MainWindow.baml
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\LAB_02.g.resources
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\LAB_02.Properties.Resources.resources
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.CopyComplete
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\LAB_02.exe.config
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\LAB_02.exe
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\LAB_02.pdb
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\EntityFramework.dll
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\Control_Assembly.pdb
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\EntityFramework.xml
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\MainWindow.g.cs
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\App.g.cs
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\LAB_02_Content.g.cs
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\LAB_02_MarkupCompile.cache
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\LAB_02_MarkupCompile.lref
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\MainWindow.baml
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\LAB_02.g.resources
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\LAB_02.Properties.Resources.resources
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\LAB_02.csproj.CopyComplete
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\LAB_02.exe
+C:\Users\Dima\Desktop\BD\02. Data access\LAB_02\obj\Debug\LAB_02.pdb
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\LAB_02.exe.config
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\LAB_02.exe
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\LAB_02.pdb
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\EntityFramework.dll
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\EntityFramework.SqlServer.dll
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\Control_Assembly.pdb
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\EntityFramework.xml
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\EntityFramework.SqlServer.xml
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\ru\EntityFramework.resources.dll
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\LAB_02.csproj.AssemblyReference.cache
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\LAB_02.csproj.SuggestedBindingRedirects.cache
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\MainWindow.g.cs
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\App.g.cs
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\LAB_02_Content.g.cs
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\LAB_02_MarkupCompile.cache
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\LAB_02_MarkupCompile.lref
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\MainWindow.baml
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\LAB_02.g.resources
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\LAB_02.Properties.Resources.resources
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\LAB_02.csproj.GenerateResource.cache
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\LAB_02.csproj.CoreCompileInputs.cache
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\LAB_02.csproj.CopyComplete
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\LAB_02.exe
+E:\source\6SEM\BD\LABA2\LAB_02\obj\Debug\LAB_02.pdb
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+E:\source\6SEM\BD\LABA2\LAB_02\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\LAB_02.csproj.AssemblyReference.cache
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\LAB_02.csproj.SuggestedBindingRedirects.cache
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\MainWindow.g.cs
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\App.g.cs
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\LAB_02_Content.g.cs
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\LAB_02_MarkupCompile.cache
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\LAB_02_MarkupCompile.lref
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\LAB_02.exe
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\LAB_02.pdb
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\LAB_02.exe.config
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\LAB_02.exe
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\LAB_02.pdb
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\EntityFramework.dll
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\EntityFramework.SqlServer.dll
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\Control_Assembly.pdb
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\EntityFramework.xml
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\EntityFramework.SqlServer.xml
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\ru\EntityFramework.resources.dll
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\MainWindow.baml
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\LAB_02.g.resources
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\LAB_02.Properties.Resources.resources
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\LAB_02.csproj.GenerateResource.cache
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\LAB_02.csproj.CoreCompileInputs.cache
+D:\3C_2S\бд\labs\lab4\LABA2\LABA2\LAB_02\obj\Debug\LAB_02.csproj.CopyComplete

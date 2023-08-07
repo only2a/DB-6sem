@@ -1,0 +1,6 @@
+D:\3C_2S\бд\labs\lab3\stored-proc\stored-proc\bin\Debug\stored-proc.dll
+D:\3C_2S\бд\labs\lab3\stored-proc\stored-proc\bin\Debug\stored-proc.pdb
+D:\3C_2S\бд\labs\lab3\stored-proc\stored-proc\obj\Debug\stored-proc.csproj.AssemblyReference.cache
+D:\3C_2S\бд\labs\lab3\stored-proc\stored-proc\obj\Debug\stored-proc.csproj.CoreCompileInputs.cache
+D:\3C_2S\бд\labs\lab3\stored-proc\stored-proc\obj\Debug\stored-proc.dll
+D:\3C_2S\бд\labs\lab3\stored-proc\stored-proc\obj\Debug\stored-proc.pdb

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="90835f63c4974014a158c4d97385945b" Name="Diagram1">
+        <EntityTypeShape EntityType="SocialNetworkModel.Comment" Width="1.5" PointX="5.25" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SocialNetworkModel.Friendships" Width="1.5" PointX="3" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SocialNetworkModel.Likes" Width="1.5" PointX="5.25" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SocialNetworkModel.log" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SocialNetworkModel.Messages" Width="1.5" PointX="3" PointY="13.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SocialNetworkModel.Post" Width="1.5" PointX="3" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SocialNetworkModel.sysdiagrams" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SocialNetworkModel.UserLocation" Width="1.5" PointX="3" PointY="19.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SocialNetworkModel.Users" Width="1.5" PointX="0.75" PointY="8.625" IsExpanded="true" />
+        <AssociationConnector Association="SocialNetworkModel.FK__Comment__post_id__66603565" ManuallyRouted="false" />
+        <AssociationConnector Association="SocialNetworkModel.FK__Comment__user_id__6754599E" ManuallyRouted="false" />
+        <AssociationConnector Association="SocialNetworkModel.FK__Friendshi__user___6E01572D" ManuallyRouted="false" />
+        <AssociationConnector Association="SocialNetworkModel.FK__Friendshi__user___6EF57B66" ManuallyRouted="false" />
+        <AssociationConnector Association="SocialNetworkModel.FK__Likes__post_id__6A30C649" ManuallyRouted="false" />
+        <AssociationConnector Association="SocialNetworkModel.FK__Likes__user_id__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="SocialNetworkModel.FK__Messages__Receiv__03F0984C" ManuallyRouted="false" />
+        <AssociationConnector Association="SocialNetworkModel.FK__Messages__Sender__02FC7413" ManuallyRouted="false" />
+        <AssociationConnector Association="SocialNetworkModel.FK__Post__user_id__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="SocialNetworkModel.FK__UserLocat__user___160F4887" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
